@@ -21,3 +21,6 @@ SECRET=
 ```
 $ npm run start
 ```
+
+
+There is a pdf attach to this where one can view the entire report of this project.
